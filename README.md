@@ -1,5 +1,6 @@
- 🌟MILEZ MENACE 🌟  
+ 🔥MILEZ MENACE🔥
 
+💯💯💯100% working...powerful bot
 <p align="center">
   <img src="https://files.catbox.moe/6c2p2w.jpg" width="500"/>
 </p>
@@ -84,7 +85,7 @@ do not start with a prefix for example
 
 🚀 **Stay updated with the latest news, updates, and features:**  
 
-https://chat.whatsapp.com/EeksxfARuEcB9xHGpVoV8R target="_blank">
+https://whatsapp.com/channel/0029VbAA0UGLikg3mb4Owb0B target="_blank">
     <img alt="WhatsApp Channel" src="https://img.shields.io/badge/WHATSAPP CHANNEL-🔔 JOIN NOW 🔔-teal?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
