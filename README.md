@@ -1,4 +1,4 @@
-# 🌟 CLOUD ☁️ AI 🌟  
+# 🌟MILEZ MENACE 🌟  
 
 <p align="center">
   <img src="https://files.catbox.moe/6c2p2w.jpg" width="500"/>
@@ -98,4 +98,4 @@ do not start with a prefix for example
 
 ---
 
-💡 **Made with ❤️ by [Bera Tech](#)**
+*Made with Fucking Milez Menace 
