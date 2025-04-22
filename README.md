@@ -2,7 +2,7 @@
 
 💯💯💯100% working...powerful bot
 <p align="center">
-  <img src="https://files.catbox.moe/6c2p2w.jpg" width="500"/>
+  src="https://files.catbox.moe/6c2p2w.jpg" width="500"/>
 </p>
 
 ---
