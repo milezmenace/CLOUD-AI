@@ -1,4 +1,4 @@
-# 🌟MILEZ MENACE 🌟  
+ 🌟MILEZ MENACE 🌟  
 
 <p align="center">
   <img src="https://files.catbox.moe/6c2p2w.jpg" width="500"/>
@@ -84,8 +84,7 @@ do not start with a prefix for example
 
 🚀 **Stay updated with the latest news, updates, and features:**  
 
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
+https://chat.whatsapp.com/EeksxfARuEcB9xHGpVoV8R target="_blank">
     <img alt="WhatsApp Channel" src="https://img.shields.io/badge/WHATSAPP CHANNEL-🔔 JOIN NOW 🔔-teal?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
